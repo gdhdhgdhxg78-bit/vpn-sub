@@ -1,0 +1,9 @@
+vless://87e981db-bd53-45b1-89c0-870cae8150de@dl5-tr4-cdn.cloud-files-uploader.com:2052?path=%2F&security=&encryption=none&host=dl5-tr4-cdn.cloud-files-uploader.com&fp=firefox&type=ws#🇹🇷 TR - Istanbul
+vless://8b7f7ff3-f82b-41bb-997c-ad389dfdf5f6@dl1-fl1-cdn.cloud-files-uploader.com:2052?path=%2F&security=none&encryption=none&host=dl1-fl1-cdn.cloud-files-uploader.com&fp=firefox&type=ws#Hmrah/iransel
+vless://8b7f7ff3-f82b-41bb-997c-ad389dfdf5f6@dl5-tr4-cdn.cloud-files-uploader.com:2052?path=%2F&security=none&encryption=none&host=dl5-tr4-cdn.cloud-files-uploader.com&fp=firefox&type=ws#🇹🇷 TR - Istanbul - 2
+vless://87e981db-bd53-45b1-89c0-870cae8150de@de.ftp.fast-cdn-uploader.com:21?path=%2F&security=&encryption=none&host=de.ftp.fast-cdn-uploader.com&fp=chrome&type=ws#2 🇩🇪
+vless://87e981db-bd53-45b1-89c0-870cae8150de@de.ftp.fast-cdn-uploader.com:21?path=%2F&security=&encryption=none&host=de.ftp.fast-cdn-uploader.com&fp=chrome&type=ws#🇩🇪 VIP
+vless://87e981db-bd53-45b1-89c0-870cae8150de@sr1.ftp.fast-cdn-uploader.com:2082?path=%2F&security=&encryption=none&host=sr1.ftp.fast-cdn-uploader.com&fp=firefox&type=ws#🇵🇱 PL VIP - 🇮🇷
+vless://87e981db-bd53-45b1-89c0-870cae8150de@sr1.ftp.fast-cdn-uploader.com:2082?path=%2F&security=&encryption=none&host=sr1.ftp.fast-cdn-uploader.com&fp=firefox&type=ws#🇫🇷 FR VIP - 🇮🇷
+vless://8b7f7ff3-f82b-41bb-997c-ad389dfdf5f6@sr100.cloud-files-uploader.com:2082?path=%2F&security=&encryption=none&host=sr100.cloud-files-uploader.com&fp=firefox&type=ws#🇫🇷 FR VIP - 🇮🇷=2
+vless://8b7f7ff3-f82b-41bb-997c-ad389dfdf5f6@3.29.98.211:80?path=%2F&security=&encryption=none&host=3.29.98.211&fp=firefox&type=ws#🇦🇪 UAE VIP
