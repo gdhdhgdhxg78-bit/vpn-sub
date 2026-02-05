@@ -1,6 +1,1 @@
-vless://b07a6462-b58b-494c-801a-5423935424f3@sr2.ftp.fast-cdn-uploader.com:21?path=%2F&security=&encryption=none&host=sr2.ftp.fast-cdn-uploader.com&fp=firefox&type=ws#🇩🇪 Germany @v2ray_404
-vless://8b7f7ff3-f82b-41bb-997c-ad389dfdf5f6@de.ftp.fast-cdn-uploader.com:21?path=%2F&security=&encryption=none&host=de.ftp.fast-cdn-uploader.com&fp=chrome&type=ws#2 🇩🇪 Germany @v2ray_404
-vless://8b7f7ff3-f82b-41bb-997c-ad389dfdf5f6@sr1.ftp.fast-cdn-uploader.com:2082?type=ws&encryption=none&host=sr1.ftp.fast-cdn-uploader.com&path=%2F&headerType=none&quicSecurity=none&serviceName=&security=&fp=firefox#🇵🇱 PL VIP - 🇮🇷 @v2ray_404
-vless://8b7f7ff3-f82b-41bb-997c-ad389dfdf5f6@sr1.ftp.fast-cdn-uploader.com:2082?type=ws&encryption=none&host=sr1.ftp.fast-cdn-uploader.com&path=%2F&headerType=none&quicSecurity=none&serviceName=&security=&fp=firefox#🇫🇷 FR VIP - 🇮🇷 @v2ray_404
-vless://8b7f7ff3-f82b-41bb-997c-ad389dfdf5f6@dl5-tr4-cdn.cloud-files-uploader.com:2052?path=%2F&security=&encryption=none&host=dl5-tr4-cdn.cloud-files-uploader.com&fp=firefox&type=ws#🇹🇷 TR - Istanbul @v2ray_404
-vless://8b7f7ff3-f82b-41bb-997c-ad389dfdf5f6@dl1-fl1-cdn.cloud-files-uploader.com:2052?path=%2F&security=&encryption=none&host=dl1-fl1-cdn.cloud-files-uploader.com&fp=firefox&type=ws#Hmrah @v2ray_404 🇺🇸
+
